@@ -17,6 +17,6 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 
 ## Running
 
-- [@grammydocsbot](https://t.me/grammydocsbot) - Search and share grammY docs right inside Telegram.
+- [@grammYdocsbot](https://t.me/grammydocsbot) - Search and share grammY docs right inside Telegram.
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 - [@ThemerBot](https://t.me/themerbot) - Create themes for most official Telegram apps based on a picture.
