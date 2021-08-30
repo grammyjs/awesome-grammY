@@ -14,6 +14,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [callsmusic/remix](https://github.com/callsmusic/remix) - Stream YouTube videos, radios and audio files in Telegram calls.
 - [rojserbest/deezer_history](https://github.com/rojserbest/deezer_history) - Tell others what you were listening to on Deezer.
 - [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) - Search which platform hosts a movie all around the world.
+- [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - Play music in group voice chat. Supports JioSaavn, YouTube and Files.
 
 ## Running
 
