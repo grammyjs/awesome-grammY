@@ -17,7 +17,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - Play music in group voice chat. Supports JioSaavn, YouTube and Files.
 - [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture.
 - [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram.
-- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a [grammY](https://grammy.dev) bot and deploy it on [Deta](https://www.deta.sh/?ref=waptik)
+- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh/?ref=waptik)
 
 ## Running
 
@@ -25,4 +25,4 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 - [@ThemerBot](https://t.me/themerbot) - Create themes for most official Telegram apps based on a picture.
 - [@GibHugBot](https://t.me/GibHugBot) - Get notified about GitHub events right in Telegram.
-- [@GrammyOnDetaBot](https://t.me/GrammyOnDetaBot) - A running example of [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template)
+- [@GrammyOnDetaBot](https://t.me/GrammyOnDetaBot) - A running example of waptik/grammy-on-deta-template.
