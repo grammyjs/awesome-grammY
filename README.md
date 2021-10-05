@@ -17,7 +17,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - Play music in group voice chat. Supports JioSaavn, YouTube and Files.
 - [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture.
 - [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram.
-- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh/?ref=waptik)
+- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh).
 
 ## Running
 
