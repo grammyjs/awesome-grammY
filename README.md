@@ -18,6 +18,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture.
 - [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram.
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh).
+- [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for @SpamWatch.
 
 ## Running
 
@@ -26,3 +27,4 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [@ThemerBot](https://t.me/themerbot) - Create themes for most official Telegram apps based on a picture.
 - [@GibHugBot](https://t.me/GibHugBot) - Get notified about GitHub events right in Telegram.
 - [@GrammyOnDetaBot](https://t.me/GrammyOnDetaBot) - A running example of waptik/grammy-on-deta-template.
+- [@SpamWatchBot](https://t.me/SpamWatchBot) - The official help bot for SpamWatch.
