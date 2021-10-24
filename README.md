@@ -1,7 +1,9 @@
 <!--lint disable awesome-git-repo-age awesome-heading-->
+
 # Awesome grammY [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
+
 This is a list of projects that are using grammY. Anyone is welcome to open a PR to add their projects following [the contributing guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md).
 
 ## Contents
@@ -15,16 +17,12 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [rojserbest/deezer_history](https://github.com/rojserbest/deezer_history) - Tell others what you were listening to on Deezer.
 - [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) - Search which platform hosts a movie all around the world.
 - [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - Play music in group voice chat. Supports JioSaavn, YouTube and Files.
-- [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture.
-- [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram.
-- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh).
-- [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for @SpamWatch.
+- [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture - [demo](https://t.me/themerbot).
+- [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram - [demo](https://t.me/GibHugBot).
+- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh) - [demo](https://t.me/GrammyOnDetaBot).
+- [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for SpamWatch - [demo](https://t.me/SpamWatchBot).
 
 ## Running
 
 - [@grammYdocsbot](https://t.me/grammydocsbot) - Search and share grammY docs right inside Telegram.
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
-- [@ThemerBot](https://t.me/themerbot) - Create themes for most official Telegram apps based on a picture.
-- [@GibHugBot](https://t.me/GibHugBot) - Get notified about GitHub events right in Telegram.
-- [@GrammyOnDetaBot](https://t.me/GrammyOnDetaBot) - A running example of waptik/grammy-on-deta-template.
-- [@SpamWatchBot](https://t.me/SpamWatchBot) - The official help bot for SpamWatch.
