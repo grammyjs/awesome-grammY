@@ -21,6 +21,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram - [demo](https://t.me/GibHugBot).
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh) - [demo](https://t.me/GrammyOnDetaBot).
 - [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for SpamWatch - [demo](https://t.me/SpamWatchBot).
+- [darvesh/thewatbot](https://github.com/darvesh/thewatbot) - Inline English-English dictionary bot - [demo](https://t.me/thewatbot).
 
 ## Running
 
