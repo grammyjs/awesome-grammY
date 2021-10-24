@@ -16,7 +16,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [callsmusic/remix](https://github.com/callsmusic/remix) - Stream YouTube videos, radios and audio files in Telegram calls.
 - [rojserbest/deezer_history](https://github.com/rojserbest/deezer_history) - Tell others what you were listening to on Deezer.
 - [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) - Search which platform hosts a movie all around the world.
-- [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - Play music in group voice chat. Supports JioSaavn, YouTube and Files.
+- [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) - Play music in group voice chat. Supports JioSaavn, YouTube and files.
 - [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture - [demo](https://t.me/themerbot).
 - [AndrewLaneX/GibHugBot](https://github.com/AndrewLaneX/GibHugBot) - Get notified about GitHub events right in Telegram - [demo](https://t.me/GibHugBot).
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A GitHub repo template to start a grammY bot and deploy it on [Deta](https://www.deta.sh) - [demo](https://t.me/GrammyOnDetaBot).
