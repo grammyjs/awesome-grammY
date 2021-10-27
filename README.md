@@ -1,4 +1,4 @@
-<!--lint disable awesome-git-repo-age awesome-heading-->
+<!--lint disable awesome-heading-->
 
 # Awesome grammY [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
