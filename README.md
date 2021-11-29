@@ -23,7 +23,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for SpamWatch - [demo](https://t.me/SpamWatchBot).
 - [darvesh/thewatbot](https://github.com/darvesh/thewatbot) - Inline English-English dictionary bot - [demo](https://t.me/thewatbot).
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) - Bot that transcribes audio messages to text - [demo](https://t.me/voicybot).
-- [Yonle/etchosts](https://github.com/Yonle/etchosts) - A static DNS text/file generator Telegram bot - [demo](https://t.me/etchosts_bot)
+- [Yonle/etchosts](https://github.com/Yonle/etchosts) - A bot that generates DNS files for domains - [demo](https://t.me/etchosts_bot).
 
 ## Running
 
