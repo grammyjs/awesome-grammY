@@ -23,7 +23,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) - A bot that transcribes audio messages to text - [demo](https://t.me/voicybot).
 - [Yonle/etchosts](https://github.com/Yonle/etchosts) - A bot that generates DNS files for domains - [demo](https://t.me/etchosts_bot).
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Download videos from the Internet to Telegram - [demo](https://t.me/AnyVideoDownloadBot).
-- [darvesh/remindmebot](https://github.com/darvesh/remindmebot) - A Telegram bot to set reminder to a message in a group. - [demo](https://t.me/thymisebot)
+- [darvesh/remindmebot](https://github.com/darvesh/remindmebot) - Set reminder to a message in a group - [demo](https://t.me/thymisebot).
 
 ## Closed-source
 
