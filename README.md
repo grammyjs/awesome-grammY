@@ -24,8 +24,8 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [Yonle/etchosts](https://github.com/Yonle/etchosts) - A bot that generates DNS files for domains - [demo](https://t.me/etchosts_bot).
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Download videos from the Internet to Telegram - [demo](https://t.me/AnyVideoDownloadBot).
 - [darvesh/remindmebot](https://github.com/darvesh/remindmebot) - Set reminder to a message in a group - [demo](https://t.me/thymisebot).
+- [grammyjs/docs-bot](https://github.com/grammyjs/docs-bot) - Search and share grammY docs right inside Telegram - [demo](https://t.me/grammydocsbot).
 
 ## Closed-source
 
-- [@grammYdocsbot](https://t.me/grammydocsbot) - Search and share grammY docs right inside Telegram.
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
