@@ -6,10 +6,9 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 
 ## Contents
 
-- [Open-source](#open-source)
-- [Closed-source](#closed-source)
+- [Bots](#bots)
 
-## Open-source
+## Bots
 
 - [callsmusic/remix](https://github.com/callsmusic/remix) - Stream YouTube videos, radios and audio files in Telegram calls.
 - [rojserbest/DeezerHistory](https://github.com/rojserbest/deezerHistory) - Tell others what you were listening to on Deezer.
@@ -25,7 +24,4 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Download videos from the Internet to Telegram - [demo](https://t.me/AnyVideoDownloadBot).
 - [darvesh/remindmebot](https://github.com/darvesh/remindmebot) - Set reminder to a message in a group - [demo](https://t.me/thymisebot).
 - [grammyjs/docs-bot](https://github.com/grammyjs/docs-bot) - Search and share grammY docs right inside Telegram - [demo](https://t.me/grammydocsbot).
-
-## Closed-source
-
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
