@@ -28,3 +28,5 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 
 ## Web Apps
+
+- [BotMate](https://botmate.app) - Create Telegram bots with ease and speed.
