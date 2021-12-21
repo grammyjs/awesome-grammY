@@ -6,8 +6,8 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 
 ## Contents
 
-- [Bots](#Bots)
-- [Web Apps](#Web-Apps)
+- [Bots](#bots)
+- [Web Apps](#web-apps)
 
 ## Bots
 
