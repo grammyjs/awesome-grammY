@@ -6,7 +6,8 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 
 ## Contents
 
-- [Bots](#bots)
+- [Bots](#Bots)
+- [Web Apps](#Web-Apps)
 
 ## Bots
 
@@ -25,3 +26,5 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [darvesh/remindmebot](https://github.com/darvesh/remindmebot) - Set reminder to a message in a group - [demo](https://t.me/thymisebot).
 - [grammyjs/docs-bot](https://github.com/grammyjs/docs-bot) - Search and share grammY docs right inside Telegram - [demo](https://t.me/grammydocsbot).
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
+
+## Web Apps
