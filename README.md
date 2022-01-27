@@ -27,6 +27,7 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 - [grammyjs/docs-bot](https://github.com/grammyjs/docs-bot) - Search and share grammY docs right inside Telegram. [ᴜsᴇ](https://t.me/grammydocsbot)
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 - [@cattpbot](https://github.com/KnorpelSenf/cattpbot) - Send cat pictures from https://http.cat instead of HTTP status codes. [ᴜsᴇ](https://t.me/cattpbot)
+- [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) - Bot starter template with scalable project structure and ready-to-use Docker setup.
 
 ## Web Apps
 
