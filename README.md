@@ -2,7 +2,7 @@
 
 # Awesome grammY [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a list of projects that are using grammY. Anyone is welcome to open a PR to add their projects following [the contributing guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md).
+This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md).
 
 ## Contents
 
