@@ -41,4 +41,4 @@ This is a list of projects that are using grammY. Anyone is welcome to open a PR
 
 ## Testing
 
-- [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) - Example bot, which is covered with tests
+- [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) - Example bot, which is covered with tests.
