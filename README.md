@@ -38,3 +38,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) - A starter bot template with a scalable structure and ready-to-use Docker setup.
 - [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) - An example bot which is covered with tests.
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A template to start a grammY bot and deploy it on [Deta](https://www.deta.sh). [ᴜsᴇ](https://t.me/GrammyOnDetaBot)
+- [askador/grammY-bot-template](https://github.com/askador/grammY-bot-template) - An example of a grammY bot file structure.
