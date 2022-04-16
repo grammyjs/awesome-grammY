@@ -28,6 +28,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [KnorpelSenf/cattpbot](https://github.com/KnorpelSenf/cattpbot) - Send cat pictures from https://http.cat instead of HTTP status codes. [ᴜsᴇ](https://t.me/cattpbot)
 - [Satont/twitch-notifier](https://github.com/Satont/twitch-notifier) - Get notified when a Twitch broadcast starts, ends or updates. [ᴜsᴇ](https://t.me/TwiNotifyBot)
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
+- [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
 
 ## Web Apps
 
