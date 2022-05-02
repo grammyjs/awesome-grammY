@@ -30,6 +30,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
 - [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
 - [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
+- [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 
 ## Web Apps
 
