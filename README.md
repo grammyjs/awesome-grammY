@@ -29,6 +29,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [Satont/twitch-notifier](https://github.com/Satont/twitch-notifier) - Get notified when a Twitch broadcast starts, ends or updates. [ᴜsᴇ](https://t.me/TwiNotifyBot)
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
 - [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
+- [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) - A bot that scans QR codes with a camera. [ᴜsᴇ](https://t.me/ScanToolBot)
 
 ## Web Apps
 
