@@ -31,6 +31,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
 - [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
 - [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) - Simple quiz bot with Web App. [ᴜsᴇ](https://t.me/yaqb_bot)
+- [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 
 ## Web Apps
 
