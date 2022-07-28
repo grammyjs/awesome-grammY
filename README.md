@@ -42,4 +42,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) - An example bot which is covered with tests.
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A template to start a grammY bot and deploy it on [Deta](https://www.deta.sh). [ᴜsᴇ](https://t.me/GrammyOnDetaBot)
 - [askador/grammY-bot-template](https://github.com/askador/grammY-bot-template) - An example of a grammY bot file structure.
-- [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) - Telegram WebApp starter bundle with vanilla setup.
+- [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) - Telegram Web App starter bundle with vanilla setup.
