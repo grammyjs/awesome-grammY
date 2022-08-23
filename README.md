@@ -32,6 +32,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
 - [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) - A simple quiz bot as Web App. [ᴜsᴇ](https://t.me/yaqb_bot)
 - [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
+- [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) - The brand-new solution for anti-abuse from Telegram groupchats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start&admin=can_invite_users)
 
 ## Web Apps
 
