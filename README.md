@@ -33,6 +33,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) - A simple quiz bot as Web App. [ᴜsᴇ](https://t.me/yaqb_bot)
 - [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 - [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start&admin=can_invite_users)
+- [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 
 ## Web Apps
 
