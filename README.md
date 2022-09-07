@@ -34,6 +34,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 - [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start&admin=can_invite_users)
 - [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
+- [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
 
 ## Web Apps
 
