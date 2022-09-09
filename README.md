@@ -35,7 +35,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start&admin=can_invite_users)
 - [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 - [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
-- [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot) - Anime & Manga search & retrieval bot based on Anilist API, runs on Deno.
+- [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot) - Search and retrieve anime and manga.
 
 ## Web Apps
 
