@@ -36,7 +36,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 - [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
 - [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot) - Search and retrieve anime and manga.
-- [gab-palmeri/TagBot](https://github.com/gab-palmeri/TagBot) - Create #tags to mention many users at once in a group. [ᴜsᴇ](https://t.me/grouptags_bot)
+- [gab-palmeri/TagBot](https://github.com/gab-palmeri/TagBot) - Create tags to mention multiple group members at once. [ᴜsᴇ](https://t.me/grouptags_bot)
 
 
 ## Web Apps
