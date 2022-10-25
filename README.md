@@ -50,3 +50,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) - An example bot which is covered with tests.
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A template to start a grammY bot and deploy it on [Deta](https://www.deta.sh). [ᴜsᴇ](https://t.me/GrammyOnDetaBot)
 - [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) - Telegram Web App starter template.
+
+## Learning resources
+
+- [Desarrollo de bots de Telegram en TypeScript](https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1) - A free course (in Spanish) to learn how to create bots using grammY.
