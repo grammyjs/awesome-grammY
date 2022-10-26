@@ -54,4 +54,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Learning resources
 
-- [Desarrollo de bots de Telegram en TypeScript](https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1) - A free course (in Spanish) to learn how to create bots using grammY.
+- [Desarrollo de bots de Telegram en TypeScript](https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1) - A free course in Spanish on creating bots using grammY.
