@@ -10,6 +10,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [Web Apps](#web-apps)
 - [Templates](#templates)
 - [Learning Resources](#learning-resources)
+- [Libraries](#libraries)
 
 ## Bots
 
@@ -54,7 +55,11 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) - Telegram Web App starter template.
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY.
 - [xditya/GrammyCloneableBot](https://github.com/xditya/GrammyCloneableBot) - A template for bots that can be cloned.
- 
+
 ## Learning Resources
 
 - [Desarrollo de bots de Telegram en TypeScript](https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1) - A free course in Spanish on creating bots using grammY.
+
+## Libraries
+
+- [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) - Date and time picker and Inline calendar for Node.js telegram bots.
