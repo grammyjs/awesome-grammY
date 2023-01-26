@@ -62,4 +62,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Libraries
 
-- [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) - Date and time picker and Inline calendar for Node.js telegram bots.
+- [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) - Date picker and inline calendar for your bots.
