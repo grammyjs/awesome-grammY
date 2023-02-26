@@ -41,7 +41,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [gab-palmeri/TagBot](https://github.com/gab-palmeri/TagBot) - Create tags to mention multiple group members at once. [ᴜsᴇ](https://t.me/grouptags_bot)
 - [vrumger/WhisperedBot](https://github.com/vrumger/WhisperedBot) - Send whispers to people in groups so no one else can read them. [ᴜsᴇ](https://t.me/WhisperedBot)
 - [voxelin/unihook](https://github.com/voxelin/unihook) - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
-- [voxelin/groombot](https://github.com/voxelin/groom) - Temporary email service. Generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
+- [voxelin/groombot](https://github.com/voxelin/groom) - Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
 
 ## Web Apps
 
