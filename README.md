@@ -53,6 +53,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) - An example bot which is covered with tests.
 - [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A template to start a grammY bot and deploy it on [Deta](https://www.deta.sh). [ᴜsᴇ](https://t.me/GrammyOnDetaBot)
 - [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) - Telegram Web App starter template.
+- [PonomareVlad/grammYVercelEdge](https://github.com/PonomareVlad/grammYVercelEdge) - Template for [Vercel Edge Functions](https://vercel.com/docs/concepts/functions/edge-functions).
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY.
 - [xditya/GrammyCloneableBot](https://github.com/xditya/GrammyCloneableBot) - A template for bots that can be cloned.
  
