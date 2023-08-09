@@ -42,7 +42,8 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [voxelin/unihook](https://github.com/voxelin/unihook) - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
 - [voxelin/groombot](https://github.com/voxelin/groom) - Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
 - [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) - Interact with OpenAI APIs from Telegram. [ᴜsᴇ](https://t.me/openaiuz_robot)
-
+- [@DexBuyBot](https://t.me/DexBuyBot) - With DexBuyBot integrated into your Telegram group, your members will have access to real-time blockchain notifications.
+  
 ## Web Apps
 
 - [BotMate](https://botmate.app) - Create Telegram bots with ease and speed.
