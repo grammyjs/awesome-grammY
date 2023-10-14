@@ -21,9 +21,9 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
 - [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for SpamWatch. [ᴜsᴇ](https://t.me/SpamWatchBot)
 - [darvesh/thewatbot](https://github.com/darvesh/thewatbot) - Inline English-English dictionary bot. [ᴜsᴇ](https://t.me/thewatbot)
-- [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) - A bot that transcribes audio messages to text. [ᴜsᴇ](https://t.me/voicybot)
+- [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) - A bot that transcribes audio messages to text.
 - [Yonle/etchosts](https://github.com/Yonle/etchosts) - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
-- [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Download videos from the Internet to Telegram. [ᴜsᴇ](https://t.me/AnyVideoDownloadBot)
+- [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Download videos from the Internet to Telegram.
 - [darvesh/remindmebot](https://github.com/darvesh/remindmebot) - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
 - [grammyjs/docs-bot](https://github.com/grammyjs/docs-bot) - Search and share grammY docs right inside Telegram. [ᴜsᴇ](https://t.me/grammydocsbot)
 - [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
@@ -31,7 +31,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
 - [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
 - [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
-- [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) - A simple quiz bot as Web App. [ᴜsᴇ](https://t.me/yaqb_bot)
+- [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) - A simple quiz bot as Web App.
 - [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 - [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start&admin=can_invite_users)
 - [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
@@ -41,7 +41,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [vrumger/WhisperedBot](https://github.com/vrumger/WhisperedBot) - Send whispers to people in groups so no one else can read them. [ᴜsᴇ](https://t.me/WhisperedBot)
 - [voxelin/unihook](https://github.com/voxelin/unihook) - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
 - [voxelin/groombot](https://github.com/voxelin/groom) - Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
-- [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) - Interact with OpenAI APIs from Telegram. [ᴜsᴇ](https://t.me/openaiuz_robot)
+- [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) - Interact with OpenAI APIs from Telegram.
 
 ## Web Apps
 
