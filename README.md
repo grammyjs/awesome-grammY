@@ -44,10 +44,6 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) - Interact with OpenAI APIs from Telegram.
 - [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 
-## Web Apps
-
-- [BotMate](https://botmate.app) - Create Telegram bots with ease and speed.
-
 ## Templates
 
 - [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) - A starter bot template with a scalable structure and ready-to-use Docker setup.
