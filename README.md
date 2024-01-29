@@ -7,7 +7,6 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 ## Contents
 
 - [Bots](#bots)
-- [Web Apps](#web-apps)
 - [Templates](#templates)
 - [Learning Resources](#learning-resources)
 - [Plugins](#plugins)
@@ -43,10 +42,6 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [voxelin/groombot](https://github.com/voxelin/groom) - Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
 - [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) - Interact with OpenAI APIs from Telegram.
 - [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
-
-## Web Apps
-
-- [BotMate](https://botmate.app) - Create Telegram bots with ease and speed.
 
 ## Templates
 
