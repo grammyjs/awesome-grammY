@@ -7,7 +7,6 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 ## Contents
 
 - [Bots](#bots)
-- [Web Apps](#web-apps)
 - [Templates](#templates)
 - [Learning Resources](#learning-resources)
 - [Plugins](#plugins)
