@@ -43,6 +43,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) - Interact with OpenAI APIs from Telegram.
 - [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 - [@OmniDubBot](https://t.me/OmniDubBot) - A bot that dubs your voice notes into 10+ languages.
+- [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
 
 ## Templates
 
