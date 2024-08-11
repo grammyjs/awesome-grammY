@@ -44,6 +44,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 - [@OmniDubBot](https://t.me/OmniDubBot) - A bot that dubs your voice notes into 10+ languages.
 - [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
+- [beilunyang/img-mom](https://github.com/beilunyang/img-mom) - A bot that uses telegram as cloud storage for images and can quickly upload images to cloud storage services like Cloudflare R2 and BlackBlaze B2. [ᴜsᴇ](https://t.me/img_mom_bot)
 
 ## Templates
 
