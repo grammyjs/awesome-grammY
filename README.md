@@ -19,7 +19,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) - Create themes for most official Telegram apps based on a picture. [ᴜsᴇ](https://t.me/themerbot)
 - [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
 - [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) - The official help bot for SpamWatch. [ᴜsᴇ](https://t.me/SpamWatchBot)
-- [darvesh/thewatbot](https://github.com/darvesh/thewatbot) - Inline English-English dictionary bot. [ᴜsᴇ](https://t.me/thewatbot)
+- [darvesh/thewatbot](https://github.com/darvesh/thewatbot) - Inline dictionary bot. Supports many languages. [ᴜsᴇ](https://t.me/thewatbot)
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) - A bot that transcribes audio messages to text.
 - [Yonle/etchosts](https://github.com/Yonle/etchosts) - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Download videos from the Internet to Telegram.
