@@ -44,6 +44,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 - [@OmniDubBot](https://t.me/OmniDubBot) - A bot that dubs your voice notes into 10+ languages.
 - [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
+- [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 - [Burhanverse/rssify](https://github.com/Burhanverse/rssify) - A feature-rich RSS bot with support for forum topics.
 - [Burhanverse/tunified](https://github.com/Burhanverse/Tunified) - A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.
 
