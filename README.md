@@ -47,7 +47,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 - [Burhanverse/rssify](https://github.com/Burhanverse/rssify) - A feature-rich RSS bot with support for forum topics.
 - [Burhanverse/tunified](https://github.com/Burhanverse/Tunified) - A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.
-- [nuhmanpk/watchwomen](https://github.com/nuhmanpk/watchwomen) - A lightweight and feature-packed Telegram bot for efficient group moderation. [ᴜsᴇ](https://t.me/watchwomen)
+- [nuhmanpk/watchwomen](https://github.com/nuhmanpk/watchwomen) - A lightweight and feature-packed Telegram bot for efficient group moderation. [ᴜsᴇ](https://t.me/watchwomenbot)
 
 ## Templates
 
