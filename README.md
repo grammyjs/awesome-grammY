@@ -58,7 +58,8 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [PonomareVlad/grammYVercelEdge](https://github.com/PonomareVlad/grammYVercelEdge) - Template for [Vercel Edge Functions](https://vercel.com/docs/concepts/functions/edge-functions).
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY.
 - [xditya/GrammyCloneableBot](https://github.com/xditya/GrammyCloneableBot) - A template for bots that can be cloned.
-- [rtyt3000/grammy-template](https://github.com/rtyt3000/grammy-template) - Template with Bun, i18n, Prisma, Docker Compose  
+- [rtyt3000/grammy-template](https://github.com/rtyt3000/grammy-template) - Template with Bun, i18n, Prisma, Docker Compose
+
 ## Learning Resources
 
 - [Desarrollo de bots de Telegram en TypeScript](https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1) - A free course in Spanish on creating bots using grammY.
