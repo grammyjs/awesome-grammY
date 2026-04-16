@@ -66,3 +66,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 ## Plugins
 
 - [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) - Date picker and inline calendar for your bots.
+- [@toptl/grammy](https://github.com/top-tl/grammy) - Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.
