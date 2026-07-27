@@ -50,6 +50,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) - A game where multiple players compete to solve anagrams in real-time.
 - [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) - A bot that sends the JSON representations of most of the updates of the Bot API.
 - [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
+- [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 
 ## Templates
 
