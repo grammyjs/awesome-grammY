@@ -70,3 +70,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 - [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) - Date picker and inline calendar for your bots.
 - [@toptl/grammy](https://github.com/top-tl/grammy) - Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.
+- [FlowCastle/flowcastle-sdk](https://github.com/FlowCastle/flowcastle-sdk) - Middleware that adds a contact CRM, live chat, broadcasts, and conversion analytics to your bot via the hosted FlowCastle dashboard.
