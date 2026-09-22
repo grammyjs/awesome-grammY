@@ -51,6 +51,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) - A bot that sends the JSON representations of most of the updates of the Bot API.
 - [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
 - [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
+- [ZYHUO/nyat-bot](https://github.com/ZYHUO/nyat-bot) - A Telegram group-chat agent that reads the room and only speaks when it has something worth saying.
 
 ## Templates
 
