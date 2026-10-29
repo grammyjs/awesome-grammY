@@ -52,6 +52,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 - [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
 - [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 - [theluckystrike/telegram-reminder-bot](https://github.com/theluckystrike/telegram-reminder-bot) - Set and manage reminders in Telegram chats, running on Cloudflare Workers. [ᴜsᴇ](https://t.me/NudgeRemindBot)
+- [@QuizAnythingBot](https://t.me/QuizAnythingBot) - AI trivia on any topic in 12 languages, played live in groups with native quiz polls, a timer and a leaderboard.
 
 ## Templates
 
