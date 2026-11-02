@@ -67,6 +67,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 ## Learning Resources
 
 - [Desarrollo de bots de Telegram en TypeScript](https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1) - A free course in Spanish on creating bots using grammY.
+- [Taking Telegram Stars payments in a bot](https://addthisbot.com/developers/) - A free guide with copy and paste code for selling digital goods in a bot with Telegram Stars.
 
 ## Plugins
 
